@@ -2,13 +2,15 @@
 CP386 Assignment 4, last assignment
 Time: Spring 2021
 
-# Motivation CP
+# Motivation
+Customers request and release resources from the bank. The banker will keep track of the resources. The banker will grant a request if it satisfies the safety algorithm. If a request does not leave the system in a safe state, the banker will deny it.
 
 # Installation
 
 # Screenshots
 
 # Individual contribution
+Xing Jia: All parts
 
 # Features
 
