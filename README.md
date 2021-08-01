@@ -1,5 +1,6 @@
 # Banker's Algorithm
 CP386 Assignment 4, last assignment
+
 Time: Spring 2021
 
 # Motivation
@@ -13,9 +14,13 @@ Xing Jia: All parts (Safe Algorithm etc)
 
 # Features
 RQ: Requesting resoureces
+
 RL: Release the resources and data structures would be updated accordingly
+
 Status: Print all arrays and matrices used
+
 Run: Executes customers as threads in a safe sequence
+
 Exit: Exit the loop and the program
 
 # Use examples
