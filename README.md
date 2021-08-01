@@ -1,6 +1,7 @@
-# Assignment-4
+# Banker's Algorithm
+CP386 Assignment 4, last assignment
 
-# Motivation
+# Motivation CP
 
 # Installation
 
