@@ -24,7 +24,7 @@ Run: Executes customers as threads in a safe sequence
 Exit: Exit the loop and the program
 
 # Use examples
-
+![Screenshot](https://ibb.co/HzYr32G)
 # Developers
 Xing Jia 180164170
 
