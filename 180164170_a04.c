@@ -1,3 +1,11 @@
+#include <stdio.h>
+#include <unistd.h>
+#include <stdlib.h>
+#include <string.h>
+#include <pthread.h>
+#include <sys/stat.h>
+#include <time.h>
+
 int safty_check(int Available[],int safe_seq[]){
     int temp[4];
     int k = 0;
