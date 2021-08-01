@@ -1,3 +1,7 @@
+//CP386 Assignment 4
+//Xing Jia 180164170
+//Github URL: https://github.com/Xing-J/Assignment-4
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
