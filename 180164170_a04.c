@@ -10,10 +10,12 @@
 #include <sys/stat.h>
 #include <time.h>
 #include <semaphore.h>
+
 void *thread_run(void *thread);
 void Run(int seq[]);
 int comp(int one[],int two[]);
 void try_all(int order,int q[],int Available[]);
+
 typedef struct Customer{
     int C_ID;
     int Allocation[4];
