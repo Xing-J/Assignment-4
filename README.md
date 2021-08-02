@@ -24,7 +24,7 @@ Run: Executes customers as threads in a safe sequence
 Exit: Exit the loop and the program
 
 # Use examples
-![Screenshot](https://i.ibb.co/xjGMdsz/Grunge-rubber-red-stamp-with-word-example-inside-vector-illustration.jpg)
+![Screenshot](https://i.ibb.co/5nQQhvy/576da1f67c3dd0aaf97525c96f88dad.png)
 # Developers
 Xing Jia 180164170
 
